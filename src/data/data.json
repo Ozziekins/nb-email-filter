@@ -1,0 +1,6 @@
+{
+    "Header": {
+      "title": "Email Filter using Naive Bayes Classifier",
+      "paragraph": "Below you can upload a sample of your own email for our model to classify or use from our own samples."
+    }
+  }

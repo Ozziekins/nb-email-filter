@@ -1,0 +1,91 @@
+Thank you for your interest in Oxygen XML products!
+
+This message contains an evaluation license key for Oxygen XML Editor, Developer and Author. After you install the kit and start the program you should copy and paste the following block of 9 lines of text not including the markers into the registration dialog from the Help menu.
+------START-LICENSE-KEY------
+
+Registration_Name=ghuseynova12056 @ ada . edu . az
+
+Company=-
+
+Category=Enterprise
+
+Component=XML-Editor, XSLT-Debugger, Saxon-SA
+
+Version=26
+
+Number_of_Licenses=1
+
+Date=10-15-2023
+
+Trial=31
+
+SGN=MCwCFBYlF1g8wjofpwt95C/ZvGskjxJXAhR7aEQgCgBkNr2eCUOhGVYXB2PmKg\=\=
+
+
+-------END-LICENSE-KEY-------
+
+Download
+The latest installation kits can be downloaded from:
+http://www.oxygenxml.com/download.html
+For documentation see:
+http://www.oxygenxml.com/documentation.html
+For a large collection of video demonstrations see:
+http://www.oxygenxml.com/videos.html
+
+Shop
+To purchase please visit the Oxygen XML store at
+http://www.oxygenxml.com/buy.html
+
+Support Channels
+We have an online discussion forum and a mailing list for Oxygen users where you can request new features, post bug reports or discuss ways in which Oxygen XML Editor can solve your problems.
+http://www.oxygenxml.com/forum/
+http://www.oxygenxml.com/mailman/listinfo/oxygen-user/
+
+As a valued Oxygen user, your opinion is very important to us. We would appreciate any comments that would help us further improve our product. Please direct your feedback to support@oxygenxml.com or visit http://www.oxygenxml.com for more information.
+
+Upcoming Events
+Check the full list of the upcoming webinars and follow the links to see more details and register for free:
+Oxygen AI Positron: Transforming Technical Content Creation through AI-Powered Writing
+October 25, 2023
+https://www.oxygenxml.com//evs2023-11.html
+
+What is new in Oxygen XML Web Author 26
+November 1, 2023
+https://www.oxygenxml.com//evs2023-12.html
+
+Declarative Amsterdam 2023
+November 2-3, 2023
+https://www.oxygenxml.com//events/2023/declarative_amsterdam_2023.html
+
+Introducing Oxygen JSON Editor - The Ultimate Solution for JSON Editing
+November 8, 2023
+https://www.oxygenxml.com//evs2023-13.html
+
+tcworld conference 2023
+November 14-16, 2023
+https://www.oxygenxml.com//events/2023/tcworld_conference_2023.html
+
+Discover the New Search Enhancements of Oxygen Feedback 4.0
+November 15, 2023
+https://www.oxygenxml.com//evs2023-14.html
+
+Exploring Oxygens YAML Support
+November 22, 2023
+https://www.oxygenxml.com//evs2023-15.html
+
+Discover the Power of Diff with Change Tracking
+November 29, 2023
+https://www.oxygenxml.com//evs2023-16.html
+
+DITA-OT Day 2024
+February 11, 2024
+https://www.oxygenxml.com//events/2024/dita-ot_day.html
+
+DITA Europe Conference 2024
+February 12-13, 2024
+https://www.oxygenxml.com//events/2024/dita_europe.html
+
+
+
+Best regards,
+Oxygen Development Team

@@ -1,0 +1,39 @@
+[
+    {
+      "content": "Subject: Daily Duties\n\nPhillip,\nWe have been working on different apartments today and having to\nlisten to different people about what Mary is saying, should I be worried?\nAnts seem to be invading my apartment. You got my other faxes. Wade is working\non the bulletin board that I need up so that I can let tenants know about\nwhat is going on. Gave #25 a notice about having too many people staying in\nthat apt, and that problem has been resolved. Also, I have a tenant in #29 that\nis complaining about #28 using foul language. I sent #28 a lease violation; we\nwill see how that goes.\nCall you tomorrow.\nThanks, Lucy",
+      "class": "ham"
+    },
+    {
+      "content": "Congratulations! You've been selected for an exclusive offer to join our elite club. As a member, you'll have access to unbelievable discounts, special promotions, and VIP treatment.\n\nBut that's not all! Act now and you could win a luxury vacation, a brand new car, or even cash prizes. This is a limited-time opportunity, and we wouldn't want you to miss out on the incredible benefits that await you.\n\nDon't wait! Claim your spot in our exclusive club and unlock a world of possibilities. Click the link below to get started:\n\n[Claim Your Exclusive Offer]\n\nThis offer is valid for a limited time, so don't delay. Join our elite club and experience the luxury you deserve.\n\nBest regards,\nThe Exclusive Club Team",
+      "class": "spam"
+    },
+    {
+      "content": "Attention,\n\nWe are writing to inform you about important updates to your account. Due to recent security enhancements, we require you to verify your account information.\n\nTo complete the verification process, please click on the following link and log in to your account:\n\n[Verify My Account]\n\nIf you do not verify your account within the next 48 hours, your account may be temporarily suspended. We take your security seriously, and this verification is necessary to ensure the safety of your account.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nAccount Security Team",
+      "class": "spam"
+    },
+    {
+      "content": "Thank you for your purchase. We appreciate your business and want to ensure your satisfaction.\n\nTo show our appreciation, we're offering you an exclusive discount on your next purchase. Simply use the promo code THANKYOU15 at checkout to enjoy a 15% discount on your entire order.\n\nThis special offer is valid for the next 7 days, so don't miss out. Shop now and save on your favorite products!\n\n[Shop Now]\n\nWe look forward to serving you again soon.\n\nBest regards,\nCustomer Support Team",
+      "class": "ham"
+    },
+    {
+      "content": "URGENT: Immediate action required!\n\nDear [Your Name],\n\nWe regret to inform you that your account is at risk of being suspended due to unauthorized activity. To prevent this, please click on the link below and verify your account details:\n\n[Verify Account]\n\nIf you do not take immediate action, your account may be permanently suspended, and you could lose access to important features.\n\nWe take the security of your account seriously and appreciate your prompt attention to this matter.\n\nSincerely,\nAccount Security Team",
+      "class": "spam"
+    },
+    {
+      "content": "Invitation to a Special Event\n\nDear [Your Name],\n\nWe are delighted to invite you to an exclusive event showcasing our latest products and innovations. Join us for an evening of networking, entertainment, and product demonstrations.\n\nDate: [Event Date]\nTime: [Event Time]\nVenue: [Event Venue]\n\nRSVP by [RSVP Date] to secure your spot at this exciting event. We look forward to seeing you there!\n\nBest regards,\nEvent Organizer",
+      "class": "ham"
+    },
+    {
+      "content": "Limited-time Offer: Save 50% Today!\n\nCongratulations! You've been selected for an exclusive limited-time offer. Shop now and enjoy a 50% discount on a wide range of products.\n\nUse code SAVE50 at checkout to claim your discount. This offer is valid until [Expiry Date], so don't miss out on the savings.\n\nVisit our online store and start shopping today!\n\n[Shop Now]\n\nBest regards,\nSales Team",
+      "class": "spam"
+    },
+    {
+      "content": "Important Update: New Account Features\n\nDear [Your Name],\n\nWe are excited to announce new features and improvements to your account. Log in now to explore the enhanced functionalities and take advantage of the latest updates.\n\n[Log In]\n\nWe value your feedback, so feel free to share your thoughts on the new features. Thank you for being a valued member of our community.\n\nBest regards,\nCustomer Support Team",
+      "class": "ham"
+    },
+    {
+      "content": "Reschedule your parcel. \n\nDear Customer,\n\nYour parcel has been redirected to your local Post Office branch due to an unpaid shipping fee.\n\nTo avoid losing your parcel, please schedule delivery below:\n\n[Reschedule Delivery >]\n\nPLEASE NOTE: Failure to comply with these terms will result in your parcel being sent back.\n\nBest Wishes,\nPost Office UK",
+      "class": "spam"
+    }
+  ]
+  
