@@ -65,7 +65,7 @@ Our user-friendly React app helps users interact with the email filter.
 ### Machine Learning Model:
 
 3. Open one terminal and run `cd nb_model`.  
-4. Run `python3 main.py` to train the model and runs the Flask API.  
+4. Run `python3 api.py` to train the model and runs the Flask API.  
 5. Access predictions via the `/predict` endpoint.  
 
 ### React App:

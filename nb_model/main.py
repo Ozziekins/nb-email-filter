@@ -146,20 +146,3 @@ class NaiveBayesClassifier:
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
             return file.read()
 
-classifier = NaiveBayesClassifier()
-validation_data = classifier.train_from_directory('emails.zip')
-classifier.save_model()
-classifier.evaluate_model(validation_data)
-
-@app.route('/predict', methods=['POST'])
-def predict():
-    try:
-        data = request.get_json()
-        content = data['content']
-        result = classifier.predict(content)
-        return jsonify(result)
-    except Exception as e:
-        return jsonify({'error': str(e)})
-
-if __name__ == '__main__':
-    app.run(debug=True)
