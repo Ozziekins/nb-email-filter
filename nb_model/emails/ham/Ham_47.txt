@@ -1,91 +1,38 @@
-Thank you for your interest in Oxygen XML products!
+Dear Students,   
 
-This message contains an evaluation license key for Oxygen XML Editor, Developer and Author. After you install the kit and start the program you should copy and paste the following block of 9 lines of text not including the markers into the registration dialog from the Help menu.
-------START-LICENSE-KEY------
+You have already started a new semester and it is an exciting time, filled with lots of opportunities for learning, self-growth and development. It doesn’t matter whether you are a first-year student or senior student, the beginning of a new semester is the time you need to set yourself up for success, to create a new, better you! But as a student, you already have a lot on your plate: new social relationships, new classes, new instructors, new assignments, etc. that can serve as potential stressors and keep you from achieving your goals. And this is the right time for you to look at the things that would help you to respond to the stressors in a healthy way and succeed in semesters to come. Regardless of old or newly found sources of stress and anxiety, a new semester should be approached in the following ways: 
 
-Registration_Name=ghuseynova12056 @ ada . edu . az
+Get organized and create a time management strategy.  
+Focus on the things you have control over (e.g. your learning not just grades). 
+Prioritize self-care, reward and appreciate yourself.  
+Explore your strengths and use them when facing difficulties. 
+Make time for sleep and get quality sleep. 
+Get some physical exercise.  
+Connect with classmates, friends, make new friendships. 
+Create a balance between education and life. 
+Accept the things/people you can’t change. 
+Avoid unnecessary stress. 
+Set clear and reasonable expectations and standards for yourself. 
+Take an action to complete the things you need/have to do, do not wait for motivation to be there. Motivation follows action! 
+Ask for help if it is needed.  
+Seeking help is the first step towards helping yourself and staying well. However, it can be hard to know where to turn to for help. Student Academic Support Service offers the following mental health services you can turn to for help: 
 
-Company=-
+Self-help resources for students on Blackboard - Student Academic Support Service – Student Mental Health; 
+Psychoeducational workshops for students; 
+Individual and group psychotherapy sessions. 
+Please email us at StudentSuccess@ada.edu.az to get more information and help.  
 
-Category=Enterprise
+Take care of your mental health! 
 
-Component=XML-Editor, XSLT-Debugger, Saxon-SA
+Turana Aliyeva
+Assistant Professor of Psychology, Social Sciences
+School of Education
 
-Version=26
+ADA University
+Ahmadbey Aghaoghlu str. 61
+Baku, Azerbaijan, AZ1008
 
-Number_of_Licenses=1
-
-Date=10-15-2023
-
-Trial=31
-
-SGN=MCwCFBYlF1g8wjofpwt95C/ZvGskjxJXAhR7aEQgCgBkNr2eCUOhGVYXB2PmKg\=\=
-
-
--------END-LICENSE-KEY-------
-
-Download
-The latest installation kits can be downloaded from:
-http://www.oxygenxml.com/download.html
-For documentation see:
-http://www.oxygenxml.com/documentation.html
-For a large collection of video demonstrations see:
-http://www.oxygenxml.com/videos.html
-
-Shop
-To purchase please visit the Oxygen XML store at
-http://www.oxygenxml.com/buy.html
-
-Support Channels
-We have an online discussion forum and a mailing list for Oxygen users where you can request new features, post bug reports or discuss ways in which Oxygen XML Editor can solve your problems.
-http://www.oxygenxml.com/forum/
-http://www.oxygenxml.com/mailman/listinfo/oxygen-user/
-
-As a valued Oxygen user, your opinion is very important to us. We would appreciate any comments that would help us further improve our product. Please direct your feedback to support@oxygenxml.com or visit http://www.oxygenxml.com for more information.
-
-Upcoming Events
-Check the full list of the upcoming webinars and follow the links to see more details and register for free:
-Oxygen AI Positron: Transforming Technical Content Creation through AI-Powered Writing
-October 25, 2023
-https://www.oxygenxml.com//evs2023-11.html
-
-What is new in Oxygen XML Web Author 26
-November 1, 2023
-https://www.oxygenxml.com//evs2023-12.html
-
-Declarative Amsterdam 2023
-November 2-3, 2023
-https://www.oxygenxml.com//events/2023/declarative_amsterdam_2023.html
-
-Introducing Oxygen JSON Editor - The Ultimate Solution for JSON Editing
-November 8, 2023
-https://www.oxygenxml.com//evs2023-13.html
-
-tcworld conference 2023
-November 14-16, 2023
-https://www.oxygenxml.com//events/2023/tcworld_conference_2023.html
-
-Discover the New Search Enhancements of Oxygen Feedback 4.0
-November 15, 2023
-https://www.oxygenxml.com//evs2023-14.html
-
-Exploring Oxygens YAML Support
-November 22, 2023
-https://www.oxygenxml.com//evs2023-15.html
-
-Discover the Power of Diff with Change Tracking
-November 29, 2023
-https://www.oxygenxml.com//evs2023-16.html
-
-DITA-OT Day 2024
-February 11, 2024
-https://www.oxygenxml.com//events/2024/dita-ot_day.html
-
-DITA Europe Conference 2024
-February 12-13, 2024
-https://www.oxygenxml.com//events/2024/dita_europe.html
-
-
-
-Best regards,
-Oxygen Development Team
+Tel:      (+994 12) 437 3235 ext. 297
+Fax:     (+994 12) 437 3236
+E-mail: taliyeva@ada.edu.az
+Web:    www.ada.edu.az

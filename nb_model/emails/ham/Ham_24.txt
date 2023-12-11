@@ -1,18 +1,14 @@
-Djinni picked up a job for your Profile:
-JavaScript, $600+, remote work, no experience, upper-intermediate English.
+Dear students,
 
+You receive this email because some time ago you took the SITE/INFT 1101: Principles of Information Systems / Intro to ICT and Engineering. As you know, SITE/INFT 1101 was first to introduce course design approaches that are different from other courses.
 
-Junior React Developer at DevelopsToday
-Poland, Ukraine (Dnipro and Kyiv) · No experience
+This included
 
-Our engineering team is looking for talents to build React and React Native applications for start-ups from healthcare, fintech, and eCommerce domains. Well-established development practices and m…
-Read more
+dividing course material to manageable weekly segments with clear learning outcomes and self-check tests to unlock the next segment
+rewarding course performance and participation in discussions with achievement "medal" badges or a chance to select the weekly "boarding" music
+adding extra grade opportunities, such as Who are You and Picture of the Day tests, bonus tasks in homework assignments.
+Please kindly spend just few minutes of your time to critically think about SITE 1101 course design in comparison with other courses and answer couple of questions: https://forms.gle/FY2n4Crx6CV4yNFN7
+Thank you for your participation.
 
-view all jobs
-
-
-
-The idea of Djinni is an anonymous job search. You publish your Profile, companies propose jobs.
-—
-Djinni is an anonymous job search
-djinni.co
+Bests,
+Araz
