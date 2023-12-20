@@ -25,7 +25,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <div auto onClick={navigateToHome} style={{ display: 'flex', justifyContent: 'center', gap: '5px' }}>
-            <a href="" className="navbar-brand" style={{ paddingTop: '35px' }}>
+            <a href="#" className="navbar-brand" style={{ paddingTop: '35px' }}>
             AI Course Project
             </a>{" "}
             <EmailFilterIcon/>
