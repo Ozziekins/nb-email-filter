@@ -3,10 +3,12 @@
 ![React badge](https://img.shields.io/badge/made%20with-React-orange?style=plastic&logo=react)
 ![Javascript](https://img.shields.io/badge/written%20in-grey?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/and-Python-blue?style=plastic&logo=python)
-![AI Course](https://img.shields.io/badge/for%20AI%20Course-purple)
+![Netlify](https://img.shields.io/badge/deployed%20with-Netlify-green?style=plastic&logo=netlify)
+![AI Course](https://img.shields.io/badge/for-AI%20Course-purple)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83c54969-aa62-4e28-8b5a-b32df58a6cb9/deploy-status)](https://app.netlify.com/sites/team-9-nb-filter/deploys)
 <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be viewed [here](https://team-9-nb-filter.netlify.app/)
 > Group 9: Gulnara Huseynova, Ozioma Nenubari Okonicha, Zulfiyya Aliyeva
 
 ## Structure
