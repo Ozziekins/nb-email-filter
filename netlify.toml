@@ -1,6 +1,7 @@
 [build]
-  command = "npm run build"
+  command = "bash ./build.sh && npm run build"
   functions = "netlify-functions/"
+  environment = { PYTHON_VERSION = "3.8" }
 
 [dev]
   command = "npm run start-api"

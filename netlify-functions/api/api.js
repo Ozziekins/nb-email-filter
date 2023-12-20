@@ -1,9 +1,14 @@
 // netlify-functions/api.js
 const { execSync } = require('child_process');
+const path = require('path');
 
 exports.handler = async function (event, context) {
   try {
-    const result = execSync('python3 ../../../nb_model/api.py').toString('utf-8');
+    // Set the path to the directory containing api.py
+    const nbModelPath = path.join(__dirname, '..', 'nb_model');
+
+    // Run the command with cd to the nb_model directory
+    const result = execSync(`cd ${nbModelPath} && python3 api.py`).toString('utf-8');
 
     return {
       statusCode: 200,
