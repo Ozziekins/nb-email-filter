@@ -53,7 +53,7 @@ export const Section = () => {
 
     const handlePredictClick = () => {
       if (fileContent.trim() !== '') {
-        fetch('http://127.0.0.1:5000/predict', {
+        fetch('/.netlify/functions/api', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
