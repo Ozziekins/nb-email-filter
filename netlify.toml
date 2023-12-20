@@ -3,7 +3,7 @@
   functions = "netlify-functions/"
 
 [dev]
-  command = "npm start"
+  command = "npm run start-api"
 
 [[redirects]]
   from = "/api/*"
