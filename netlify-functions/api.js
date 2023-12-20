@@ -1,12 +1,13 @@
 // netlify-functions/api.js
-const { execSync } = require('child_process');
+const util = require('util');
+const exec = util.promisify(require('child_process').exec);
 
 exports.handler = async function (event, context) {
   try {
-    const result = execSync('python3 nb_model/api.py').toString('utf-8');
+    const { stdout } = await exec('python3 nb_model/api.py');
     return {
       statusCode: 200,
-      body: result,
+      body: stdout,
     };
   } catch (error) {
     return {
