@@ -53,7 +53,7 @@ export const Section = () => {
 
     const handlePredictClick = () => {
       if (fileContent.trim() !== '') {
-        fetch('https://polar-atoll-55474-0a4c431804d4.herokuapp.com/predict', {
+        fetch('https://nb-model-api-6b28733f4586.herokuapp.com/predict', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
